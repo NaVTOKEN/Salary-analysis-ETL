@@ -1,6 +1,3 @@
-# Salary-analysis-ETL
-End to end salary analysis
-
 Salary Intelligence ETL Pipeline
 
 Overview
